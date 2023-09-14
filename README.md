@@ -7,7 +7,7 @@
 1. Type dependent, customizable, graphs 
     1. Numeric: Histogram
     2. Categorical: Barplot with optional numeric y-axis
-1. Downloadble graphs
+1. Downloadable graphs
 
 ### App Link on Streamlit.app
 https://aryansunkersett-stats21streamli-stats21discussionproject-sjnpd4.streamlit.app/
