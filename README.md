@@ -10,4 +10,4 @@
 1. Downloadable graphs
 
 ### App Link on Streamlit.app
-https://aryansunkersett-stats21streamli-stats21discussionproject-sjnpd4.streamlit.app/
+https://app-eda-app-bogpdkvutxwkdsvgfvdavr.streamlit.app/
