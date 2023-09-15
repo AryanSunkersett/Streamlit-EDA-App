@@ -3,9 +3,9 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-# streamlit run /Users/aryan/Desktop/DATA-APP/stats21discussionproject.py
+# streamlit run streamlitEDAapp.py
 
-st.title('Stats 21 EDA Application')
+st.title('EDA Application')
 
 st.sidebar.title('Dataset Options')
 
