@@ -11,3 +11,6 @@
 
 ### App Link on Streamlit.app
 https://app-eda-app-bogpdkvutxwkdsvgfvdavr.streamlit.app/
+
+Iris dataset is included in the repo for testing (if you don't already have it on your computer)
+
